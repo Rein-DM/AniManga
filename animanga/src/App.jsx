@@ -8,6 +8,10 @@ import Sports from './assets/components/Sports'
 import Sliceoflife from './assets/components/Sliceoflife'
 import Comedy from './assets/components/Comedy'
 import Shounen from './assets/components/Shounen'
+import TopAnime from './assets/components/TopAnime'
+import Download from './assets/components/Download' 
+import Footer from './assets/components/Footer'
+
 const App = () => {
   return (
     <>
@@ -21,6 +25,9 @@ const App = () => {
     <Sliceoflife />
     <Comedy />
     <Shounen />
+    <TopAnime />
+    <Download />
+    <Footer />
     </div>
 
     </>
